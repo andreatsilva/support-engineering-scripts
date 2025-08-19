@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Support Engineering Scripts
 
 A collection of scripts for application support, CI/CD monitoring, and automation.  
