@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Support Engineering Scripts
 
 A collection of scripts for application support, CI/CD monitoring, and automation.  
@@ -40,3 +41,4 @@ python3 pipeline_tools/cleanup_artifacts.py
 
 # Example: Rollback deployment
 bash deployment/rollback.sh
+=======
